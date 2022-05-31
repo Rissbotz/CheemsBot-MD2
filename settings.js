@@ -21,12 +21,12 @@ global.APIKeys = {
 }
 
 //customize settings\\
-global.owner = ['081256023873']
-global.premium = ['081256023873']
-global.ownernomer = '081256023873'
+global.owner = ['6281256023873']
+global.premium = ['6281256023873']
+global.ownernomer = '6281256023873'
 global.ownername = 'Call Me Riss'
 global.botname = '༄RISS BOTZ࿐'
-global.footer = 'Riss Botz.'
+global.footer = '༄Riss Botz࿐'
 global.ig = 'https://www.instagram.com/hy.riss02?r=nametag'
 global.region = 'Indonesia'
 global.sc = 'https://chat.whatsapp.com/GyCEE5g5jtx5Gw4N0nwoUG'
@@ -37,7 +37,7 @@ global.sessionName = 'session'
 global.prefa = ['','!','.','🐦','🐤','🗿']
 global.sp = '⭔'
 global.mess = {
-    success: 'Done ✓',
+    success: 'Done Kak🌷',
     admin: 'This Feature Is Only For Admin!',
     botAdmin: 'Bot Must Be Admin First!',
     owner: 'This Feature Is Only For Owner!',
